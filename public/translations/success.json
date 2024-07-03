@@ -1,0 +1,15 @@
+{
+  "user_login": "User logged in successfully",
+  "user_registered": "User registered successfully",
+  "verification_mail": "Verification mail sent successfully",
+  "email_verified": "Email verified successfully",
+  "password_changed": "Password changed successfully",
+  "user_profile_fetched": "User profile fetched successfully",
+  "user_profile_updated": "User profile updated successfully",
+  "user_details_fetched": "User details fetched successfully",
+  "user_fetched": "User fetched successfully",
+  "users_fetched": "Users fetched successfully",
+  "products_list_fetched": "Products fetched successfully",
+  "product_details_fetched": "Product details fetched successfully",
+  "product_created": "Product created successfully"
+}

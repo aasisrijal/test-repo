@@ -1,0 +1,16 @@
+const API_ROOT_PATH = "/api";
+const API_DOCS_PATH = "/api-docs";
+
+const UPLOAD_FILE_SIZE = 5 * 1024 * 1024; // 5 MB limit
+const UPLOAD_MAX_NO_FILE_ALLOWED = 6; // Max 3 files
+const UPLOAD_MIN_NO_FILE_ALLOWED = 1; // Min 1 file
+const UPLOAD_MAX_LOOKBOOK_ALLOWED = 10; // Min 1 file
+
+export default {
+  API_ROOT_PATH,
+  API_DOCS_PATH,
+  UPLOAD_FILE_SIZE,
+  UPLOAD_MIN_NO_FILE_ALLOWED,
+  UPLOAD_MAX_NO_FILE_ALLOWED,
+  UPLOAD_MAX_LOOKBOOK_ALLOWED,
+};
